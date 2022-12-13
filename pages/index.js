@@ -1,6 +1,6 @@
 
 import Layout from '../components/Layout'
-import ProductItem from '../components/ProducttItem'
+import ProductItem from '../components/ProductItem'
 import data from '../utilis/data'
 
 export default function Home() {
