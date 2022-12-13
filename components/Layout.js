@@ -15,7 +15,7 @@ const Layout = ({ title, children }) => {
         <header>
         <nav className="flex h-12 justify-between items-center px-4 shadow-md ">
             <Link href="/" className="text-lg font-bold">
-           amazona
+           Chrinmat
             </Link>
         
         <div>
@@ -29,7 +29,7 @@ const Layout = ({ title, children }) => {
         <main className="container m-auto mt-4 px-4">{children}</main>
 
         <footer className="flex h-10 items-center shadow-inner justify-center">
-            <p> Copyright 2022  Amazona</p>
+            <p> Copyright 2022  Chrinmat</p>
         </footer>
       </div>
     </>
